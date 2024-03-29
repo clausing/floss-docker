@@ -13,4 +13,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag clausing/floss:$(date +%Y%m%d%H%M)
+      run: docker build . --file Dockerfile --tag clausing/flare-floss:$(date +%Y%m%d%H%M)
