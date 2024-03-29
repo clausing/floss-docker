@@ -1,4 +1,4 @@
-# Yara-docker
+# Floss-docker
 
 Run flare-floss tool in a docker container 
 
